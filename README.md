@@ -5,7 +5,7 @@
 #### 김철민, 문지혜, 이동현, 김태현
 #### Special Thanks to. 디자이너 멘토님 (배너 그림 도움)
 ★ 장려상(4등) 수상 ★<br/>
-<img src="https://github.com/kbs4674/news-summary/blob/master/public/DKU_victory.png?raw=true" width="600px">
+<!-- <img src="https://github.com/kbs4674/news-summary/blob/master/public/DKU_victory.png?raw=true" width="600px"> -->
 
 
 ## 1. INFO
